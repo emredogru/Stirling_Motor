@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+/JavaApplication36/nbproject/private/
+/serverConsoleApp/nbproject/private/
+/serverConsoleApp/build/
